@@ -1,2 +1,2 @@
 # Amazon-Clone-
-This is my front end project 
+Build a clone of E - commerce website named amazon my front - end development project 
